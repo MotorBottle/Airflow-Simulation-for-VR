@@ -1,6 +1,6 @@
 # Airflow-Simulation-for-VR
 
-Developed with Unity/Esp32(PlatformIO)
+Developed using Unity/Esp32(PlatformIO)
 
 These are code references for both unity/esp32 sdies of my master's project - Integrative Airflow Simulation for Enhanced VR Experience. Through this you would be able to simulate wind/air through an external device (based on esp32) attached onto the headset.
 
